@@ -1,0 +1,8 @@
+build/
+*.o
+*.out
+*.exe
+benchmark_results.txt
+.cache/
+CMakeFiles/
+CMakeCache.txt
