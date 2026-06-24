@@ -144,3 +144,5 @@ The optimization sequence and benchmarking approach follow Simon Boehm's
 CUDA SGEMM writeup (siboehm/SGEMM_CUDA) — I'd recommend reading the
 original article alongside this code, it explains the reasoning behind
 each step in more depth than the comments here do.
+
+- Created by Aryan Mehta
