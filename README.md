@@ -143,7 +143,4 @@ pretending the numbers are cleaner than they are.
 The optimization sequence and benchmarking approach follow Simon Boehm's
 CUDA SGEMM writeup (siboehm/SGEMM_CUDA) — I'd recommend reading the
 original article alongside this code, it explains the reasoning behind
-each step in more depth than the comments here do. I wrote and debugged
-every kernel myself rather than copying the reference implementation
-directly, which is also why some of the rough edges above exist instead of
-this being a clean port.
+each step in more depth than the comments here do.
